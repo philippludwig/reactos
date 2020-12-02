@@ -30,6 +30,7 @@ list(APPEND _keyboard_layouts
     kbdgeo
     kbdgerg
     kbdgneo
+    kbdgneo2
     kbdgr
     kbdgrist
     kbdhe
