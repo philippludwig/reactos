@@ -178,6 +178,7 @@ BEGIN
     IDS_GERMAN_DE_ERGO_LAYOUT "Němčima (de_ergo)"
     IDS_GERMAN_IBM_LAYOUT "Němčima (IBM)"
     IDS_GERMAN_NEO_11_LAYOUT "Němčima (NEO-1.1)"
+    IDS_GERMAN_NEO_2_LAYOUT "Němčima (NEO-2)"
     IDS_GERMAN_RISTOME_LAYOUT "Němčima (RISTOME)"
     IDS_GREEK_LAYOUT "Řečtina"
     IDS_GREEK_220_LAYOUT "Řečtina (220)"

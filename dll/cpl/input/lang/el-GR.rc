@@ -173,6 +173,7 @@ BEGIN
     IDS_GERMAN_DE_ERGO_LAYOUT "German (de_ergo)"
     IDS_GERMAN_IBM_LAYOUT "Γερμανικά (IBM)"
     IDS_GERMAN_NEO_11_LAYOUT "German (NEO-1.1)"
+    IDS_GERMAN_NEO_2_LAYOUT "German (NEO-2)"
     IDS_GERMAN_RISTOME_LAYOUT "German (RISTOME)"
     IDS_GREEK_LAYOUT "Ελληνικά"
     IDS_GREEK_220_LAYOUT "Ελληνικά (220)"

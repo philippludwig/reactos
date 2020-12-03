@@ -175,6 +175,7 @@ BEGIN
     IDS_GERMAN_DE_ERGO_LAYOUT "גרמנית (de_ergo)"
     IDS_GERMAN_IBM_LAYOUT "גרמנית (IBM)"
     IDS_GERMAN_NEO_11_LAYOUT "גרמנית (NEO-1.1)"
+    IDS_GERMAN_NEO_2_LAYOUT "גרמנית (NEO-2)"
     IDS_GERMAN_RISTOME_LAYOUT "גרמנית (RISTOME)"
     IDS_GREEK_LAYOUT "יוונית"
     IDS_GREEK_220_LAYOUT "יוונית (220)"

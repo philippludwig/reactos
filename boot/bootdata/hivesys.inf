@@ -506,9 +506,9 @@ HKLM,"SYSTEM\CurrentControlSet\Control\Keyboard Layouts\00020407","Layout File",
 HKLM,"SYSTEM\CurrentControlSet\Control\Keyboard Layouts\00020407","Layout Text",0x00000000,%GERMAN_NEO%
 HKLM,"SYSTEM\CurrentControlSet\Control\Keyboard Layouts\00020407","Layout Display Name",0x00000000,"@%SystemRoot%\system32\input.dll,-5138"
 
-HKLM,"SYSTEM\CurrentControlSet\Control\Keyboard Layouts\00020407","Layout File",0x00000000,"kbdgneo2.dll"
-HKLM,"SYSTEM\CurrentControlSet\Control\Keyboard Layouts\00020407","Layout Text",0x00000000,%GERMAN_NEO2%
-HKLM,"SYSTEM\CurrentControlSet\Control\Keyboard Layouts\00020407","Layout Display Name",0x00000000,"@%SystemRoot%\system32\input.dll,-5138"
+HKLM,"SYSTEM\CurrentControlSet\Control\Keyboard Layouts\00020410","Layout File",0x00000000,"kbdgneo2.dll"
+HKLM,"SYSTEM\CurrentControlSet\Control\Keyboard Layouts\00020410","Layout Text",0x00000000,%GERMAN_NEO2%
+HKLM,"SYSTEM\CurrentControlSet\Control\Keyboard Layouts\00020410","Layout Display Name",0x00000000,"@%SystemRoot%\system32\input.dll,-5143"
 
 HKLM,"SYSTEM\CurrentControlSet\Control\Keyboard Layouts\00010407","Layout File",0x00000000,"kbdgrist.dll"
 HKLM,"SYSTEM\CurrentControlSet\Control\Keyboard Layouts\00010407","Layout Text",0x00000000,%GERMAN_RISTOME%

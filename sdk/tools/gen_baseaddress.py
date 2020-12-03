@@ -140,6 +140,7 @@ EXCLUDE = (
     'kbdgeo.dll',
     'kbdgerg.dll',
     'kbdgneo.dll',
+    'kbdgneo2.dll',
     'kbdgr.dll',
     'kbdgrist.dll',
     'kbdhe.dll',

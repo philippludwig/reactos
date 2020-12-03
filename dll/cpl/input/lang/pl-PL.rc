@@ -181,6 +181,7 @@ BEGIN
     IDS_GERMAN_DE_ERGO_LAYOUT "Niemiecki (de_ergo)"
     IDS_GERMAN_IBM_LAYOUT "Niemiecki (IBM)"
     IDS_GERMAN_NEO_11_LAYOUT "Niemiecki (NEO-1.1)"
+    IDS_GERMAN_NEO_2_LAYOUT "Niemiecki (NEO-2)"
     IDS_GERMAN_RISTOME_LAYOUT "Niemiecki (RISTOME)"
     IDS_GREEK_LAYOUT "Grecki"
     IDS_GREEK_220_LAYOUT "Grecki (220)"
