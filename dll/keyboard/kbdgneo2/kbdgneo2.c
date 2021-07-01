@@ -220,6 +220,7 @@ ROSDATA VK_TO_WCHARS2 key_to_chars_2mod[] = {
 ROSDATA VK_TO_WCHARS3 key_to_chars_3mod[] = {
   /* Normal, Shifted, Ctrl */
   /* Legacy (telnet-style) ascii escapes */
+  { '1', CAPLOK, {'1', '°', '¹'} },
   { '3', CAPLOK, {'3', 0xa7, 0xb3} },
   { '7', CAPLOK, {'7', '/', '{'} },
   { '8', CAPLOK, {'8', '(', '['} },
